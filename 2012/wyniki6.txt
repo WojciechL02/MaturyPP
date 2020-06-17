@@ -1,0 +1,24 @@
+6.1
+Piotr		Bogasiuk
+Anastazja	Chojnawiak
+Marcin		Chojnik
+Karol		Kaczmarczyk
+Dominik		Kaczmarek
+Mariusz		Lis
+Katarzyna	Weber
+
+6.2
+48	fizyka
+55	informatyka
+38	matematyka
+
+6.3
+Krzysztof	Peszek
+Piotr		Koniec
+
+6.4
+15	k
+40	m
+
+6.5
+71,56

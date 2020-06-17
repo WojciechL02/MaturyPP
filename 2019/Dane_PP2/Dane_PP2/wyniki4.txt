@@ -1,0 +1,34 @@
+4.1
+103
+
+4.2
+298
+
+4.3
+1 pytanie	167
+2 pytanie	172
+3 pytanie	153
+4 pytanie	173
+5 pytanie	155
+6 pytanie	160
+
+4.4
+pytanie		odp	poprawne	³atwoœæ
+1 pytanie	167	39		0,234
+2 pytanie	172	53		0,308
+3 pytanie	153	39		0,255
+4 pytanie	173	54		0,312
+5 pytanie	155	67		0,432
+6 pytanie	160	46		0,288
+
+4.5
+735284701	
+				
+				
+				
+				
+				
+				
+	
+				
+

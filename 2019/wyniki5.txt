@@ -1,0 +1,40 @@
+zadanie 5.1
+
+Zapytania w jezyku T-SQL. w Microsoft SQL Server 2014 i SQL Server 2012
+Programowanie Microsoft SQL Server 2012.
+Zaawansowany Python. Jasne, zwiezle i efektywne programowanie
+Programowanie Microsoft SQL Server 2008 Tom 1 i 2. Pakiet
+
+Trening mentalny sportowca kurs
+Ekspresowy kurs dla poczatkujacych. Angielski.
+Ekspresowy kurs dla poczatkujacych. Hiszpanski.
+Ekspresowy kurs dla srednio zaawansowanych. Hiszpanski.
+Ekspresowy kurs dla poczatkujacych. Wloski.
+Ekspresowy kurs dla srednio zaawansowanych. Angielski.
+Ekspresowy kurs dla poczatkujacych. Francuski.
+Ekspresowy kurs dla poczatkujacych. Niemiecki.
+Medytacja Kolorami.
+
+
+zadanie 5.2
+Autor	Tytul
+Drea Zigarmi, Ken Blanchard, Patricia Zigarmi	Jednominutowy menedzer i przywodztwo.
+Brian Tracy	Zarzadzanie czasem.
+Rafal Janus	Excel w praktyce, 8/14
+
+zadanie 5.3
+Dziedzina	Srednia
+ekonomia	8,98
+informatyka	31,99
+literatura faktu	22,81
+literatura piekna	15,97
+nauki humanistyczne	12,77
+nauki matematyczno-przyrodnicze	11,17
+nauki spoleczne	16,19
+
+5.4
+literatura piekna	587
+
+5.5
+Lucky	908,47
+5dzientygodnia	13,97

@@ -1,0 +1,25 @@
+6.1
+dziewczyny: 976
+ch³opcy: 1124
+
+6.2
+imie		nazwisko	liczba_g³osów
+Lucjan		Jamski		75
+Katarzyna	Maciak		68
+Marta		Korbus		67
+Szymon		Bujnarowski	65
+Beniamin	Laskowski	65
+Bartlomiej	Kogut		64
+Antoni		Pilski		63
+Mateusz		Krefta		61
+Dorota		Dlugosz		61
+Piotr		Kopacz		61
+
+6.3
+697
+
+6.4
+rok_nauki	œrednia
+1		83,00
+2		80,11
+3		292,44
